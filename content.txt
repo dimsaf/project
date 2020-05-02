@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content clear-branch
+=======
+content cherry-branch
+>>>>>>> 03343d3... changes in chery-branch
